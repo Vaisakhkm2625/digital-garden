@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/domain-name-records/"}
+{"dg-publish":true,"permalink":"/domain-name-records/","tags":["tech"]}
 ---
-
 
 # Domain names
 
@@ -9,8 +8,8 @@
 - dns records
 	
 DNS Record s
-
-points people to emails etc
+					
+			points people to emails etc
 
 ## Different categories for dns record s
 
