@@ -3,7 +3,6 @@
 ---
 
 
-
 # key signatures
 
 https://www.youtube.com/watch?v=xY9Q0R0G2jM&list=PLtaiPXYQc0W0qC24XS26C8XSE96MvDFBF&index=12
