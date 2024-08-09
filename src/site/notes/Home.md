@@ -5,6 +5,8 @@
 # Vaisakh's Digital garden
 - [[Excalidraw/os ring privilage system .excalidraw\|os ring privilage system .excalidraw]]
 - [[Excalidraw/Drawing 2024-08-10 00.21.04.excalidraw\|Drawing 2024-08-10 00.21.04.excalidraw]]
+- [[Excalidraw/Drawing 2024-08-10 00.29.15.excalidraw\|Drawing 2024-08-10 00.29.15.excalidraw]]
+- [[Excalidraw/Drawing 2024-08-10 01.12.43.excalidraw\|Drawing 2024-08-10 01.12.43.excalidraw]]
 - [[Home\|Home]]
 - [[divide-and-concour\|divide-and-concour]]
 - [[domain name records\|domain name records]]
@@ -17,5 +19,8 @@
 - [[fleeting_notes/collage/recursive algo complexity\|recursive algo complexity]]
 - [[system_callsand_services\|system_callsand_services]]
 - [[aws paracctitior\|aws paracctitior]]
+- [[Untitled\|Untitled]]
+- [[key signatures\|key signatures]]
+- [[piano\|piano]]
 
 { .block-language-dataview}
