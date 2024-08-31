@@ -7,8 +7,10 @@
 
 https://www.youtube.com/watch?v=xY9Q0R0G2jM&list=PLtaiPXYQc0W0qC24XS26C8XSE96MvDFBF&index=12
 
+- it will be always in that order
+
 ![keysignatures.png](/img/user/img/keysignatures.png)
-Father Charles Goes Down and Ends Battle
+Father Charles Goes Down And Ends Battle
 Battle Ends and Down Goes Charles Father
 (in reverse)
 
