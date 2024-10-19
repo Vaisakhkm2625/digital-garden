@@ -9,6 +9,7 @@
 - [[Excalidraw/Drawing 2024-09-20 05.01.27.excalidraw\|Drawing 2024-09-20 05.01.27.excalidraw]]
 - [[Excalidraw/os ring privilage system .excalidraw\|os ring privilage system .excalidraw]]
 - [[Excalidraw/project_excalidraw_drawings.excalidraw\|project_excalidraw_drawings.excalidraw]]
+- [[Excalidraw/Drawing 2024-10-19 14.10.12.excalidraw\|Drawing 2024-10-19 14.10.12.excalidraw]]
 - [[fleeting_notes/Home\|Home]]
 - [[fleeting_notes/Java refresher\|Java refresher]]
 - [[fleeting_notes/Measures (bars)\|Measures (bars)]]
