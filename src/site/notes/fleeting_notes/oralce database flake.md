@@ -53,3 +53,33 @@ nix-prefetch-url file:///home/vaisakh/Downloads/jdk-8u381-linux-x64.tar.gz
 - press `connect`
 
 Now you can run sql queries
+
+## Hyprland blurry SQL Developer 
+```
+xwayland {
+  force_zero_scaling = true
+}
+```
+
+Then set font size to 16
+
+## Setting up vim in Oracle SQL Developer on NixOS
+
+> ref: https://www.thatjeffsmith.com/archive/2013/02/how-to-plug-vi-into-oracle-sql-developer/
+
+- type `which vim` in your terminal
+```sh
+❯ which vim 
+/run/current-system/sw/bin/vim
+```
+
+- In *SQL Developer* , go to `tools > External Tools...`
+- give above path to program Executable field.
+- ![Pasted image 20241019142545.png](/img/user/img/Pasted%20image%2020241019142545.png)
+
+
+- Press on insert button, select file path in arguments field.
+- ![Pasted image 20241019142955.png](/img/user/img/Pasted%20image%2020241019142955.png)k
+- Next> Next> (stop at integration tab)
+- Click on `After tool exist> reload open files`
+
