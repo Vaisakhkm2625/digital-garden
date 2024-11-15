@@ -61,7 +61,7 @@
 - [[fleeting_notes/steve\|steve]]
 - [[fleeting_notes/system_callsand_services\|system_callsand_services]]
 - [[fleeting_notes/Untitled 5\|Untitled 5]]
-- [[fleeting_notes/operating-systems-quick-summary.md\|operating-systems-quick-summary.md]]
+- [[fleeting_notes/operating-systems-complete-summary.md\|operating-systems-complete-summary.md]]
 - [[img/sharps 2024-08-10 04.39.46.excalidraw\|sharps 2024-08-10 04.39.46.excalidraw]]
 - [[scales\|scales]]
 - [[seventh\|seventh]]
