@@ -7,7 +7,7 @@
 
 > Vaisakh K M - https://notes.linuxwith.in/fleeting-notes/operating-systems-quick-summary/
 - based on BITS Pilani WILP - Year 3 - sem 1 Operating System subject slides 
-- Generated with the help googles Gemini 1.5 Flash model
+- Generated with the help of googles Gemini 1.5 Flash model 
 
 #### can you give the  list of all the main topics in it?
 
