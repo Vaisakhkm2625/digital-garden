@@ -4,11 +4,12 @@
 
 
 # Operating Systems Quick Summary
+
 > Vaisakh K M - https://notes.linuxwith.in/fleeting-notes/operating-systems-quick-summary/
-> based on BITS Pilani WILP slides - 
+- based on BITS Pilani WILP - Year 3 - sem 1 Operating System subject slides 
+- Generated with the help googles Gemini 1.5 Flash model
 
-
-### can you give the  list of all the main topics in it?
+#### can you give the  list of all the main topics in it?
 
 The main topics are:
 
@@ -27,7 +28,7 @@ The main topics are:
 13. Memory Management 
 14. Swap space and RAID
 
-### all the topics and all the sub topics in it as a list
+#### all the topics and all the sub topics in it as a list
 
 Sure, here is a list of all the topics and subtopics:
 
