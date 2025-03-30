@@ -9,6 +9,10 @@ https://www.youtube.com/watch?v=xY9Q0R0G2jM&list=PLtaiPXYQc0W0qC24XS26C8XSE96MvD
 
 - it will be always in that order
 
+Where a key signature corresponding to a note, for eg F, means **all** notes of that are flat... here F# means, all F, bottom or at top are flat.. 
+
+*Five Cats Go Dozing After Eating Bread*
+
 ![keysignatures.png](/img/user/img/keysignatures.png)
 Father Charles Goes Down And Ends Battle
 Battle Ends and Down Goes Charles Father
