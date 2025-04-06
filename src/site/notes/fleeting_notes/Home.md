@@ -3,6 +3,33 @@
 ---
 
 # Vaisakh's Digital garden
+
+## Published notes
+
+- [[Excalidraw/os ring privilage system .excalidraw\|os ring privilage system .excalidraw]]
+- [[fleeting_notes/Computing and Design-assignment-1-MIPS- Vaisakh K M\|Computing and Design-assignment-1-MIPS- Vaisakh K M]]
+- [[fleeting_notes/Home\|Home]]
+- [[fleeting_notes/Piano\|Piano]]
+- [[fleeting_notes/computing and design\|computing and design]]
+- [[fleeting_notes/database-session-1\|database-session-1]]
+- [[fleeting_notes/domain name records\|domain name records]]
+- [[fleeting_notes/Measures (bars)\|Measures (bars)]]
+- [[fleeting_notes/hibernate-cheatsheet.md\|hibernate-cheatsheet.md]]
+- [[fleeting_notes/integration with firewalld for docker\|integration with firewalld for docker]]
+- [[fleeting_notes/key signatures\|key signatures]]
+- [[fleeting_notes/next-cloud on oracle cloud\|next-cloud on oracle cloud]]
+- [[fleeting_notes/nextcloud-install-2\|nextcloud-install-2]]
+- [[fleeting_notes/operating-systems-complete-summary.md\|operating-systems-complete-summary.md]]
+- [[fleeting_notes/oralce database flake\|oralce database flake]]
+- [[fleeting_notes/pinao- remeber notes\|pinao- remeber notes]]
+- [[fleeting_notes/powerautomate  confluence autobackup mails\|powerautomate  confluence autobackup mails]]
+- [[fleeting_notes/promising2027\|promising2027]]
+- [[fleeting_notes/self-study\|self-study]]
+- [[fleeting_notes/shots - cenima\|shots - cenima]]
+
+{ .block-language-dataview}
+
+## All Notes
 - [[Excalidraw/Drawing 2024-08-10 00.21.04.excalidraw\|Drawing 2024-08-10 00.21.04.excalidraw]]
 - [[Excalidraw/Drawing 2024-08-10 00.29.15.excalidraw\|Drawing 2024-08-10 00.29.15.excalidraw]]
 - [[Excalidraw/Drawing 2024-08-10 01.12.43.excalidraw\|Drawing 2024-08-10 01.12.43.excalidraw]]
