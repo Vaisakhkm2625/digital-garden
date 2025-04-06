@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/fleeting-notes/operating-systems-complete-summary-md/"}
 ---
 
-
 # Operating Systems Complete Summary
 
 > Vaisakh K M - https://notes.linuxwith.in/fleeting-notes/operating-systems-complete-summary
+
 - based on BITS Pilani WILP - Year 3 - sem 1 Operating System subject slides 
 - Generated with the help of googles Gemini 1.5 Flash model 
 
