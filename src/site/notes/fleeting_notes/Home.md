@@ -26,6 +26,7 @@
 - [[fleeting_notes/promising2027\|promising2027]]
 - [[fleeting_notes/self-study\|self-study]]
 - [[fleeting_notes/shots - cenima\|shots - cenima]]
+- [[fleeting_notes/avatar series\|avatar series]]
 
 { .block-language-dataview}
 
@@ -150,6 +151,8 @@
 - [[fleeting_notes/triage kt\|triage kt]]
 - [[fleeting_notes/tutorial hell\|tutorial hell]]
 - [[fleeting_notes/Untitled 4\|Untitled 4]]
+- [[fleeting_notes/avatar series - links\|avatar series - links]]
+- [[fleeting_notes/avatar series\|avatar series]]
 - [[img/computing and design 2025-01-30 20.15.35.excalidraw\|computing and design 2025-01-30 20.15.35.excalidraw]]
 - [[img/sharps 2024-08-10 04.39.46.excalidraw\|sharps 2024-08-10 04.39.46.excalidraw]]
 - [[seventh\|seventh]]
