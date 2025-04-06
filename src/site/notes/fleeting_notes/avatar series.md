@@ -3,12 +3,11 @@
 ---
 
 
-
 # Avatar series
 
 ## Avatar Book 1 - Water 
 
-- [ ] Avatar Book 1 Water Episode 1 - The Boy in the Iceberg
+- [x] Avatar Book 1 Water Episode 1 - The Boy in the Iceberg
 - [ ] Avatar Book 1 Water Episode 2 - The Avatar Returns
 - [ ] Avatar Book 1 Water Episode 3 - The Southern Air Temple
 - [ ] Avatar Book 1 Water Episode 4 - The Warriors of Kyoshi
