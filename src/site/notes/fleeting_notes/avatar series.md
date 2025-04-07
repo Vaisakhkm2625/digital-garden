@@ -2,21 +2,20 @@
 {"dg-publish":true,"permalink":"/fleeting-notes/avatar-series/"}
 ---
 
-
 # Avatar series
 
 ## Avatar Book 1 - Water 
 
 - [x] Avatar Book 1 Water Episode 1 - The Boy in the Iceberg
-- [ ] Avatar Book 1 Water Episode 2 - The Avatar Returns
-- [ ] Avatar Book 1 Water Episode 3 - The Southern Air Temple
-- [ ] Avatar Book 1 Water Episode 4 - The Warriors of Kyoshi
-- [ ] Avatar Book 1 Water Episode 5 - The King of Omashu
-- [ ] Avatar Book 1 Water Episode 6 - Imprisoned
-- [ ] Avatar Book 1 Water Episode 7 - Winter Solstice, Part 1: The Spirit World
-- [ ] Avatar Book 1 Water Episode 8 - Winter Solstice, Part 2: Avatar Roku
-- [ ] Avatar Book 1 Water Episode 9 - The Waterbending Scroll
-- [ ] Avatar Book 1 Water Episode 10 - Jet
+- [x] Avatar Book 1 Water Episode 2 - The Avatar Returns
+- [x] Avatar Book 1 Water Episode 3 - The Southern Air Temple
+- [x] Avatar Book 1 Water Episode 4 - The Warriors of Kyoshi
+- [x] Avatar Book 1 Water Episode 5 - The King of Omashu
+- [x] Avatar Book 1 Water Episode 6 - Imprisoned
+- [x] Avatar Book 1 Water Episode 7 - Winter Solstice, Part 1: The Spirit World
+- [x] Avatar Book 1 Water Episode 8 - Winter Solstice, Part 2: Avatar Roku
+- [x] Avatar Book 1 Water Episode 9 - The Waterbending Scroll
+- [x] Avatar Book 1 Water Episode 10 - Jet
 - [ ] Avatar Book 1 Water Episode 11 - The Great Divide
 - [ ] Avatar Book 1 Water Episode 12 - The Storm
 - [ ] Avatar Book 1 Water Episode 13 - The Blue Spirit
