@@ -16,8 +16,8 @@
 - [x] Avatar Book 1 Water Episode 8 - Winter Solstice, Part 2: Avatar Roku
 - [x] Avatar Book 1 Water Episode 9 - The Waterbending Scroll
 - [x] Avatar Book 1 Water Episode 10 - Jet
-- [ ] Avatar Book 1 Water Episode 11 - The Great Divide
-- [ ] Avatar Book 1 Water Episode 12 - The Storm
+- [x] Avatar Book 1 Water Episode 11 - The Great Divide
+- [x] Avatar Book 1 Water Episode 12 - The Storm
 - [ ] Avatar Book 1 Water Episode 13 - The Blue Spirit
 - [ ] Avatar Book 1 Water Episode 14 - The Fortuneteller
 - [ ] Avatar Book 1 Water Episode 15 - Bato of the Water Tribe
