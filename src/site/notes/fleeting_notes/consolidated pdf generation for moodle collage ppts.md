@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/fleeting-notes/consolidated-pdf-generation-for-moodle-collage-ppts/"}
 ---
 
-## step 1: Download files from [Moodle](https://moodle.org/)  (https://taxila-aws.bits-pilani.ac.in/)
+## Step 1: Download files from [Moodle](https://moodle.org/)  (https://taxila-aws.bits-pilani.ac.in/)
 
 you can manually download the files by clicking through each file, or do the following
 
@@ -22,7 +22,11 @@ Array.from(document.querySelectorAll("a.aalink.stretched-link")).slice(slice_fro
 
 ```
 
+## Step 2: organize the files 
+
 3. move all the downloaded files to a dedicated folder  (i use [yazi-rs](https://yazi-rs.github.io/) to do this)
+## Step 3: convert to pdfs
+
 4. use `libreoffice`  cli to convert files to pdfs
 ```sh
 libreoffice --convert-to pdf *.ppt*
@@ -34,6 +38,7 @@ mv *.pdf pdfs/
 cd pdfs/
 ```
 
+## Step 4: pdfunite
 6. use`pdfunite` to combine all pdfs 
 ```sh
 pdfunite "CS1.pdf" "CS2.pdf" "CS3.pdf" "CS4.pdf" "CS5.pdf" "CS6.pdf" "CS7.pdf" "CS9.pdf" "CS10.pdf" "CS11.pdf" "CS12.pdf" "CS13,1415.pdf" statistical-inference-and-applications-consolidated-ppts.pdf
@@ -48,12 +53,14 @@ pdfunite "CS1.pdf" "CS2.pdf" "CS3.pdf" "CS4.pdf" "CS5.pdf" "CS6.pdf" "CS7.pdf" "
 	- add `pdfunite` in the start and `output.pdf` at the end 
 	- copy and run it in terminal
 	
-## optional operation
-
+## Optional operations
+### OCR enabled PDFs for searching text
 - Use `OCR` enable pdf (text searchable), use `ocrmypdf`
 ```sh
 ocrmypdf input.pdf --force-ocr output.pdf
 ```
+
+### Tiled PDFs for printing
 - use `pdfjam` to create tiled pdfs
 ```
 pdfjam --nup 3x3 --paper a4paper --angle 90 --outfile output.pdf computing-and-design-ppts-consolidated.pdf
