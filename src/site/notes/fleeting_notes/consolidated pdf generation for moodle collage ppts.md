@@ -50,8 +50,7 @@ pdfunite "CS1.pdf" "CS2.pdf" "CS3.pdf" "CS4.pdf" "CS5.pdf" "CS6.pdf" "CS7.pdf" "
 	- sort the files using vim edits (or you can use yazi's batch replace to change name of the files in an incremental order)
 	- regex replace to add double quotes , `:%s/^/"/` and `:%s/$/"/`
 	- select all with `ggVG`, press `J` to make it a single line
-	- add `pdfunite` in the start and `output.pdf` at the end 
-	- copy and run it in terminal
+	- add `pdfunite` in the start and `output.pdf` at the end  - copy and run it in terminal
 	
 ## Optional operations
 ### OCR enabled PDFs for searching text
@@ -62,8 +61,29 @@ ocrmypdf input.pdf --force-ocr output.pdf
 
 ### Tiled PDFs for printing
 - use `pdfjam` to create tiled pdfs
+```sh
+pdfjam --landscape --nup 3x3 --paper a4paper --outfile software-design-principals-consolidated-3x3-landscape.pdf ./software-design-principals-consolidated.pdf
+# pdfjam --nup 3x3 --paper a4paper --angle 90 --outfile output.pdf computing-and-design-ppts-consolidated.pdf
 ```
-pdfjam --nup 3x3 --paper a4paper --angle 90 --outfile output.pdf computing-and-design-ppts-consolidated.pdf
+
+crop and zoom in
+
+```sh
+ pdfjam --trim '5mm 15mm 5mm 15mm' --clip true --landscape --nup 3x3 --paper a4paper --outfile software-design-principals-consolidated-3x3-landscape.pdf ./software-design-principals-consolidated.pdf
+
+```
+
+### Page number
+
+```
+pdfcpu stamp add -m text -- "%p" "pos:br, scale:0.02, rot:0" statistical-inference-and-applications-consolidated-3x3-landscape.pdf output.pdf
+```
+
+rough tests
+```sh
+pdfcpu stamp add -m text -- "Page %p of %P" "pos:br, scale:0.4, rot:0" database-design-ppts-consolidate.pdf output.pdf
+pdfcpu stamp add -m text -- "%p" "pos:br, scale:0.4, rot:0" database-design-ppts-consolidate.pdf output.pdf      
+pdfcpu nup -- "formsize:A4, orientation:rd" out9.pdf 9 database-design-ppts-consolidate.pdf                
 ```
 
 
