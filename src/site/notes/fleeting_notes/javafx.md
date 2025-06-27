@@ -4,7 +4,7 @@
 
 ---
 
-# 🧾 JavaFX Cheat Sheet
+# 🧾 JavaFX 
 
 ---
 
