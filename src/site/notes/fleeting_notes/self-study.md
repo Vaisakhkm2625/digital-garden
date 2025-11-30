@@ -8,3 +8,4 @@
 
 - database desgin - [[fleeting_notes/ed-diagram\|ed-diagram]]
 
+- information security - [[infromation security \|infromation security ]]
