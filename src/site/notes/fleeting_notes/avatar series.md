@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/avatar-series/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/avatar-series/","dg-note-properties":{}}
 ---
 
 # Avatar series

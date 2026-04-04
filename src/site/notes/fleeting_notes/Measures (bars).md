@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/measures-bars/","tags":["piano"]}
+{"dg-publish":true,"permalink":"/fleeting-notes/measures-bars/","tags":["piano"],"dg-note-properties":{"tags":["piano"]}}
 ---
 
 

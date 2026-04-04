@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/pinao-remeber-notes/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/pinao-remeber-notes/","dg-note-properties":{}}
 ---
 
 z#piano 

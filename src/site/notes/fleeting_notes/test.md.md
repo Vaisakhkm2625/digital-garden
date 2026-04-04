@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/test-md/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/test-md/","dg-note-properties":{}}
 ---
 
 # bases test
 
-![[testingbase.base]]
+
+```base
+views:
+  - type: table
+    name: Table
+
+```
+
+

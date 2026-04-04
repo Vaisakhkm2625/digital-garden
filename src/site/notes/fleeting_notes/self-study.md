@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/self-study/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/self-study/","dg-note-properties":{}}
 ---
 
 

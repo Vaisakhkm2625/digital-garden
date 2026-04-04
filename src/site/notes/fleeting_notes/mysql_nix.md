@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/mysql-nix/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/mysql-nix/","dg-note-properties":{}}
 ---
 
 

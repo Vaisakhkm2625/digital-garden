@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/database-session-1/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/database-session-1/","dg-note-properties":{}}
 ---
 
 # Database

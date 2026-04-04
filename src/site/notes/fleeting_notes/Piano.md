@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/piano/","tags":["piano"]}
+{"dg-publish":true,"permalink":"/fleeting-notes/piano/","tags":["piano"],"dg-note-properties":{"tags":["piano"]}}
 ---
 
 # Piano notes

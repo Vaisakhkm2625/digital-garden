@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/domain-name-records/","tags":["tech"]}
+{"dg-publish":true,"permalink":"/fleeting-notes/domain-name-records/","tags":["tech"],"dg-note-properties":{"tags":["tech"]}}
 ---
 
 # Domain names

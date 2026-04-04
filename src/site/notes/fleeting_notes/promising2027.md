@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/promising2027/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/promising2027/","dg-note-properties":{}}
 ---
 
 # Events i am waiting for in 2027

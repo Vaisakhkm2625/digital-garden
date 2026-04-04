@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/videos-i-recomment/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/videos-i-recomment/","dg-note-properties":{}}
 ---
 
 https://www.youtube.com/watch?v=1fZTOjd_bOQ

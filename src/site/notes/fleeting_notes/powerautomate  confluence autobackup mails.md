@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/powerautomate-confluence-autobackup-mails/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/powerautomate-confluence-autobackup-mails/","dg-note-properties":{}}
 ---
 
 

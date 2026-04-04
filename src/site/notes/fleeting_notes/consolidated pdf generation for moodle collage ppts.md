@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/consolidated-pdf-generation-for-moodle-collage-ppts/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/consolidated-pdf-generation-for-moodle-collage-ppts/","dg-note-properties":{}}
 ---
 
 ## Step 1: Download files from [Moodle](https://moodle.org/)  (https://taxila-aws.bits-pilani.ac.in/)

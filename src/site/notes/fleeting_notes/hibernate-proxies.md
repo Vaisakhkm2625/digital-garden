@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/hibernate-proxies/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/hibernate-proxies/","dg-note-properties":{}}
 ---
 
 

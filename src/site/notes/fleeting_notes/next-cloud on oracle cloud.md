@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/next-cloud-on-oracle-cloud/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/next-cloud-on-oracle-cloud/","dg-note-properties":{}}
 ---
 
 # Next cloud

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/key-signatures/","tags":["#piano"]}
+{"dg-publish":true,"permalink":"/fleeting-notes/key-signatures/","tags":["#piano"],"dg-note-properties":{"tags":["#piano"]}}
 ---
 
 

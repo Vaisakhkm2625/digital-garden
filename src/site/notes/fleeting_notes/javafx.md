@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/javafx/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/javafx/","dg-note-properties":{}}
 ---
 
 ---

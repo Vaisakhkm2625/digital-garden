@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/computing-and-design-assignment-1-mips-vaisakh-k-m/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/computing-and-design-assignment-1-mips-vaisakh-k-m/","dg-note-properties":{}}
 ---
 
 
@@ -130,21 +130,21 @@ exit:
 ```
 
 
-![Pasted image 20250330221850.png|500](/img/user/img/Pasted%20image%2020250330221850.png)
+![Pasted image 20250330221850.png\|500](/img/user/img/Pasted%20image%2020250330221850.png)
 
 ### Output
 #### Addition
 
-![Pasted image 20250330222123.png|500](/img/user/img/Pasted%20image%2020250330222123.png)
+![Pasted image 20250330222123.png\|500](/img/user/img/Pasted%20image%2020250330222123.png)
 #### Subtraction
 
-![Pasted image 20250330223307.png|500](/img/user/img/Pasted%20image%2020250330223307.png)
+![Pasted image 20250330223307.png\|500](/img/user/img/Pasted%20image%2020250330223307.png)
 
 #### Multiplication 
-![Pasted image 20250330222333.png|500](/img/user/img/Pasted%20image%2020250330222333.png)
+![Pasted image 20250330222333.png\|500](/img/user/img/Pasted%20image%2020250330222333.png)
 
 ### Invalid choice
 
-![Pasted image 20250330223413.png|500](/img/user/img/Pasted%20image%2020250330223413.png)
+![Pasted image 20250330223413.png\|500](/img/user/img/Pasted%20image%2020250330223413.png)
 
 

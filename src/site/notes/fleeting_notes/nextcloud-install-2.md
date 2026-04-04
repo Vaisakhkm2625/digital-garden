@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/nextcloud-install-2/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/nextcloud-install-2/","dg-note-properties":{}}
 ---
 
 # Next cloud installation on Oracle cloud

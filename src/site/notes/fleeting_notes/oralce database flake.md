@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/oralce-database-flake/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/oralce-database-flake/","dg-note-properties":{}}
 ---
 
 # Oracle database on cloud

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/fleeting-notes/home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 # Vaisakh's Digital garden
@@ -82,6 +82,7 @@
 - [[Excalidraw/Drawing 2025-05-11 00.00.21.excalidraw\|Drawing 2025-05-11 00.00.21.excalidraw]]
 - [[Excalidraw/semaphore .excalidraw\|semaphore .excalidraw]]
 - [[Excalidraw/splitplot design.excalidraw\|splitplot design.excalidraw]]
+- [[Excalidraw/Drawing 2026-04-04 19.23.09.excalidraw\|Drawing 2026-04-04 19.23.09.excalidraw]]
 - [[fleeting_notes/1 million  request pers sec\|1 million  request pers sec]]
 - [[fleeting_notes/202117b3543-Vaisakh-KM-SE-Assignment-2\|202117b3543-Vaisakh-KM-SE-Assignment-2]]
 - [[fleeting_notes/2026-02-12\|2026-02-12]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/hibernate-cheatsheet-md/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/hibernate-cheatsheet-md/","dg-note-properties":{}}
 ---
 
 

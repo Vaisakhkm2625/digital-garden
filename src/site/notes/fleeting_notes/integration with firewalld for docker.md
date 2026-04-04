@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/integration-with-firewalld-for-docker/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/integration-with-firewalld-for-docker/","dg-note-properties":{}}
 ---
 
 ## [Integration with firewalld](https://docs.docker.com/engine/network/packet-filtering-firewalls/#integration-with-firewalld)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fleeting-notes/operating-systems-complete-summary-md/"}
+{"dg-publish":true,"permalink":"/fleeting-notes/operating-systems-complete-summary-md/","dg-note-properties":{}}
 ---
 
 # Operating Systems Complete Summary
