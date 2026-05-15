@@ -24,6 +24,7 @@
 - [[fleeting_notes/integration with firewalld for docker\|integration with firewalld for docker]]
 - [[fleeting_notes/javafx\|javafx]]
 - [[fleeting_notes/key signatures\|key signatures]]
+- [[fleeting_notes/memes\|memes]]
 - [[fleeting_notes/mysql_nix\|mysql_nix]]
 - [[fleeting_notes/next-cloud on oracle cloud\|next-cloud on oracle cloud]]
 - [[fleeting_notes/nextcloud-install-2\|nextcloud-install-2]]
