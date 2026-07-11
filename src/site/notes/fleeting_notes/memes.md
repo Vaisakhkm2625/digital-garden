@@ -28,3 +28,11 @@ My own meme:
 
 
 ![Screenshot_20260516_004730_Google.png\|500](/img/user/img/Screenshot_20260516_004730_Google.png)
+
+
+
+
+source :  https://www.youtube.com/watch?v=JG7wBlY0VUg
+
+
+![Pasted image 20260705001831.png](/img/user/img/Pasted%20image%2020260705001831.png)
