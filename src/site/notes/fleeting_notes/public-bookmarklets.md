@@ -2,9 +2,4 @@
 {"dg-publish":true,"permalink":"/fleeting-notes/public-bookmarklets/","dg-note-properties":{}}
 ---
 
-
-```
-javascript:(function(){function dfs(r){try{var f=r.getElementById('content');if(f&&f.src&&/View/.test(f.src)){window.open(f.src,'_blank');return 1}}catch(e){}try{var els=r.querySelectorAll('*');for(var i=0;i<els.length;i++){var e=els[i];if(e.shadowRoot&&dfs(e.shadowRoot))return 1;if(e.tagName=='IFRAME'&&e.contentDocument&&dfs(e.contentDocument))return 1}}catch(e){}return 0}dfs(document)})();
-```
-
-<a href="javascript:(function(){function dfs(r){try{var f=r.getElementById('content');if(f&&f.src&&/View/.test(f.src)){window.open(f.src,'_blank');return 1}}catch(e){}try{var els=r.querySelectorAll('*');for(var i=0;i<els.length;i++){var e=els[i];if(e.shadowRoot&&dfs(e.shadowRoot))return 1;if(e.tagName=='IFRAME'&&e.contentDocument&&dfs(e.contentDocument))return 1}}catch(e){}return 0}dfs(document)})();"> </a>
+[📥 Download SASTRA LMS PDF](javascript:(function(){var p=null;function w(r,d){if(d>8)return;try{var q=r.querySelectorAll('*');for(var i=0;i<q.length;i++){var e=q[i];if(e.shadowRoot){var f=w(e.shadowRoot,d+1);if(f)return f}if(e.contentDocument){var f=w(e.contentDocument,d+1);if(f)return f}}}catch(e){}try{var w2=r.defaultView||r.ownerDocument.defaultView;if(w2.PDFViewerApplication&&w2.PDFViewerApplication.pdfDocument)return w2.PDFViewerApplication.pdfDocument}catch(e){}try{var e=r.querySelector('d2l-pdf-viewer');if(e&&e._pdfDocument)return e._pdfDocument}catch(e){}return null}p=w(document,0);if(p){p.getData().then(function(b){var u=URL.createObjectURL(new Blob([b],{type:'application/pdf'}));var a=document.createElement('a');a.href=u;a.download='document.pdf';a.click()})}else{alert('Not a SASTRA PDF viewer page')}})())
