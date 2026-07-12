@@ -39,6 +39,7 @@
 - [[fleeting_notes/test.md\|test.md]]
 - [[fleeting_notes/videos i recomment\|videos i recomment]]
 - [[fleeting_notes/public-bookmarklets\|public-bookmarklets]]
+- [[fleeting_notes/probabiliity-and-stat-using-R-sastra-first-sem-rev\|probabiliity-and-stat-using-R-sastra-first-sem-rev]]
 
 { .block-language-dataview}
 
@@ -414,6 +415,9 @@
 - [[fleeting_notes/youtube watch queue\|youtube watch queue]]
 - [[fleeting_notes/Sastra exam 1\|Sastra exam 1]]
 - [[fleeting_notes/public-bookmarklets\|public-bookmarklets]]
+- [[fleeting_notes/sastra-cia-3\|sastra-cia-3]]
+- [[fleeting_notes/mathmatics-for-data-science-sastra-first-sem-rev\|mathmatics-for-data-science-sastra-first-sem-rev]]
+- [[fleeting_notes/probabiliity-and-stat-using-R-sastra-first-sem-rev\|probabiliity-and-stat-using-R-sastra-first-sem-rev]]
 - [[home/vaisakh/vaisakhRoot/programming/java/mem-leaks 1\|mem-leaks 1]]
 - [[home/vaisakh/vaisakhRoot/programming/java/mem-leaks\|mem-leaks]]
 - [[img/computing and design 2025-01-30 20.15.35.excalidraw\|computing and design 2025-01-30 20.15.35.excalidraw]]
