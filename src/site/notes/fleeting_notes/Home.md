@@ -39,6 +39,7 @@
 - [[fleeting_notes/test.md\|test.md]]
 - [[fleeting_notes/videos i recomment\|videos i recomment]]
 - [[fleeting_notes/public-bookmarklets\|public-bookmarklets]]
+- [[fleeting_notes/mathmatics-for-data-science-sastra-first-sem-rev\|mathmatics-for-data-science-sastra-first-sem-rev]]
 - [[fleeting_notes/probabiliity-and-stat-using-R-sastra-first-sem-rev\|probabiliity-and-stat-using-R-sastra-first-sem-rev]]
 
 { .block-language-dataview}
