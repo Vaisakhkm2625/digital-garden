@@ -154,7 +154,8 @@ it's working... i tried wrong login 5 times from my phone...
 sudo fail2ban-client set nextcloud unbanip <IP_ADDRESS>
 ```
 
-
-
-
-
+## Related
+- [[fleeting_notes/nextcloud-install-2\|fleeting_notes/nextcloud-install-2]]
+- [[fleeting_notes/selfhosting security\|fleeting_notes/selfhosting security]]
+- [[fleeting_notes/integration with firewalld for docker\|fleeting_notes/integration with firewalld for docker]]
+- [[fleeting_notes/domain name records\|fleeting_notes/domain name records]]

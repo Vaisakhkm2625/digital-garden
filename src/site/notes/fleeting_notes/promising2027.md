@@ -25,3 +25,8 @@ https://www.youtube.com/watch?v=vIp_jwHMjIk&t=235s
 https://www.youtube.com/watch?v=AzU78eq3Kzw
 
 https://lyten.com/products/lithium-sulfur-batteries/
+
+## Related
+- [[fleeting_notes/assignment-cenima\|fleeting_notes/assignment-cenima]]
+- [[fleeting_notes/bat-man\|fleeting_notes/bat-man]]
+- [[fleeting_notes/Indie movies\|fleeting_notes/Indie movies]]

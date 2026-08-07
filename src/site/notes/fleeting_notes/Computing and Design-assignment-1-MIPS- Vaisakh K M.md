@@ -147,4 +147,10 @@ exit:
 
 ![Pasted image 20250330223413.png\|500](/img/user/img/Pasted%20image%2020250330223413.png)
 
+## Related
+- [[fleeting_notes/computing and design\|fleeting_notes/computing and design]]
+- [[fleeting_notes/computing and design notes ai\|fleeting_notes/computing and design notes ai]]
+- [[fleeting_notes/Computing and Design - assignment - 2\|fleeting_notes/Computing and Design - assignment - 2]]
+- [[fleeting_notes/collage/computing-and-design\|fleeting_notes/collage/computing-and-design]]
+
 

@@ -36,3 +36,8 @@ source :  https://www.youtube.com/watch?v=JG7wBlY0VUg
 
 
 ![Pasted image 20260705001831.png](/img/user/img/Pasted%20image%2020260705001831.png)
+
+## Related
+- [[fleeting_notes/steve\|fleeting_notes/steve]]
+- [[Excalidraw/usflagmeme\|Excalidraw/usflagmeme]]
+- [[fleeting_notes/obsidian-test\|fleeting_notes/obsidian-test]]

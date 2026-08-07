@@ -8,4 +8,12 @@
 
 - database desgin - [[fleeting_notes/ed-diagram\|ed-diagram]]
 
-- information security - [[infromation security \|infromation security ]]
+- information security - [[fleeting_notes/infromation security\|infromation security]]
+
+
+## Related
+- [[fleeting_notes/database design\|fleeting_notes/database design]]
+- [[fleeting_notes/infromation security\|fleeting_notes/infromation security]]
+- [[fleeting_notes/computing and design\|fleeting_notes/computing and design]]
+- [[fleeting_notes/selfhosting security\|fleeting_notes/selfhosting security]]
+- [[fleeting_notes/sem 6 text books list\|fleeting_notes/sem 6 text books list]]

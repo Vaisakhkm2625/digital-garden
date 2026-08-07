@@ -231,3 +231,8 @@
 ### Code L4 / U IV Lecture 3
 - [🎥 DAY 05 | STATISTICAL COMPUTING & R PROGRAMMING  | V SEM | BCA | STATISTICS AND PROBABILITY | L2](<https://youtube.com/watch?v=ZyrLntffu9o>) — Vidhyaashram
 - [🎥 DAY 04 | STATISTICAL COMPUTING & R PROGRAMMING  | V SEM | BCA | STATISTICS AND PROBABILITY | L1](<https://youtube.com/watch?v=s_kMb3nRnf8>) — Vidhyaashram
+
+## Related
+- [[fleeting_notes/programming using R\|fleeting_notes/programming using R]]
+- [[fleeting_notes/review of probability & statistics\|fleeting_notes/review of probability & statistics]]
+- [[fleeting_notes/sastra university\|fleeting_notes/sastra university]]

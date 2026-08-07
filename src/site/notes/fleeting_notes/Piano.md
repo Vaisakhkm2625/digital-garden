@@ -4,11 +4,11 @@
 
 # Piano notes
 #  Notes
-- [[seventh\|seventh]]
 - [[scales\|scales]]
 - [[fleeting_notes/sharps\|sharps]]
-- [[fleeting_notes/key signatures\|key signatures]]
+- [[seventh\|seventh]]
 - [[fleeting_notes/Piano\|Piano]]
+- [[fleeting_notes/key signatures\|key signatures]]
 - [[fleeting_notes/Measures (bars)\|Measures (bars)]]
 
 { .block-language-dataview}
@@ -23,3 +23,9 @@ midi -  https://onlinesequencer.net/
 
 gravity falls - 
 https://musescore.com/thatonepiano/scores/1871671
+
+## Related
+- [[fleeting_notes/pinao- remeber notes\|fleeting_notes/pinao- remeber notes]]
+- [[fleeting_notes/key signatures\|fleeting_notes/key signatures]]
+- [[scales\|scales]]
+- [[seventh\|seventh]]

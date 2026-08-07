@@ -119,3 +119,12 @@ In a panning shot, the camera remains stationary but swivels horizontally, often
 **Example:** In _Season 2, Episode 1, "Scary-oke,"_ there’s a panning shot during the zombie attack on the Mystery Shack. As the camera pans across the room, it follows the action, showing different characters fighting off zombies in one continuous motion. This gives the viewer a sense of the chaotic action without cutting away.
 
 
+
+
+## Related
+- [[fleeting_notes/assignment-cenima\|fleeting_notes/assignment-cenima]]
+- [[fleeting_notes/collage/literature-cenima\|fleeting_notes/collage/literature-cenima]]
+- [[fleeting_notes/movie-references\|fleeting_notes/movie-references]]
+- [[fleeting_notes/story-of-a-line\|fleeting_notes/story-of-a-line]]
+- [[fleeting_notes/[leap-of-faith\|fleeting_notes/[leap-of-faith]]
+- [[fleeting_notes/shortfilm - relations?\|fleeting_notes/shortfilm - relations?]]

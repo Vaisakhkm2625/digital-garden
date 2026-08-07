@@ -41,3 +41,9 @@ in pkgs.mkShell {
   '';
 }
 ```
+
+## Related
+- [[fleeting_notes/mysql\|fleeting_notes/mysql]]
+- [[fleeting_notes/oralce database flake\|fleeting_notes/oralce database flake]]
+- [[fleeting_notes/home-manager-gemini\|fleeting_notes/home-manager-gemini]]
+- [[fleeting_notes/linux kernal parameter\|fleeting_notes/linux kernal parameter]]

@@ -80,6 +80,14 @@ date: 31/01/2025
 
 
 
+## Related
+- [[fleeting_notes/computing and design notes ai\|fleeting_notes/computing and design notes ai]]
+- [[fleeting_notes/separation of concerns\|fleeting_notes/separation of concerns]]
+- [[fleeting_notes/collage/computing-and-design\|fleeting_notes/collage/computing-and-design]]
+- [[fleeting_notes/quiz-answers\|fleeting_notes/quiz-answers]]
+
+
+
 
 
 

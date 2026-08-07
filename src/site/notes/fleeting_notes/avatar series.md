@@ -157,3 +157,9 @@
 
 
 
+
+## Related
+- [[fleeting_notes/avatar series - links\|fleeting_notes/avatar series - links]]
+- [[fleeting_notes/anime\|fleeting_notes/anime]]
+- [[fleeting_notes/one-piece\|fleeting_notes/one-piece]]
+- [[fleeting_notes/yamanosusume\|fleeting_notes/yamanosusume]]

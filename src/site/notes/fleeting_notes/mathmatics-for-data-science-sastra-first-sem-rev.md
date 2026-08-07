@@ -204,3 +204,9 @@ This plan is structured to build mathematical intuition from foundational linear
 ### Gradient of Vector valued functions / Bayesian linear regression Gaussian mixture model
 - [🎥 Vector Calculus for Machine Learning Algorithms | Gradients | Jacobian | Partial Derivatives](<https://youtube.com/watch?v=sR3b23K51QQ>) — Dr. Vinay Raj, NIT Trichy
 - [🎥 Linear Regression and Gradient Descent](<https://youtube.com/watch?v=Mk8sXDV1tNE>) — GeeksforGeeks
+
+## Related
+- [[fleeting_notes/probabiliity-and-stat-using-R-sastra-first-sem-rev\|fleeting_notes/probabiliity-and-stat-using-R-sastra-first-sem-rev]]
+- [[fleeting_notes/sastra-cia-3\|fleeting_notes/sastra-cia-3]]
+- [[fleeting_notes/stat cheat sheet\|fleeting_notes/stat cheat sheet]]
+- [[fleeting_notes/review of probability & statistics\|fleeting_notes/review of probability & statistics]]

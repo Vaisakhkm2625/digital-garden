@@ -1249,4 +1249,7 @@ RAID is commonly implemented in various levels, each offering a different balanc
 
 Do you have any questions about this topic?  If not, type "continue" to move on to the next topic. 
 
-
+## Related
+- [[fleeting_notes/collage/operating_system\|fleeting_notes/collage/operating_system]]
+- [[fleeting_notes/Untitled 5\|fleeting_notes/Untitled 5]]
+- [[fleeting_notes/sem 6 text books list\|fleeting_notes/sem 6 text books list]]

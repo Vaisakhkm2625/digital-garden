@@ -9,3 +9,9 @@ https://www.youtube.com/watch?v=1fZTOjd_bOQ
 
 - data achival - https://www.youtube.com/watch?v=ulh9z-JluBs
 	- optical drives are really good option
+
+## Related
+  - [[fleeting_notes/youtube watch queue\|fleeting_notes/youtube watch queue]]
+  - [[fleeting_notes/data-archive\|fleeting_notes/data-archive]]
+  - [[fleeting_notes/translate_youtube_videos\|fleeting_notes/translate_youtube_videos]]
+  - [[fleeting_notes/elasicsearch\|fleeting_notes/elasicsearch]]

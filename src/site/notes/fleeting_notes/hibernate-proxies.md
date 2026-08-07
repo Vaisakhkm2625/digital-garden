@@ -33,3 +33,10 @@ assertThat(Hibernate.isInitialized(chessGame.getPlayerWhite())).isFalse();
 
 [[fleeting_notes/hibernate\|hibernate]]
 
+## Related
+
+- [[fleeting_notes/hibernate\|fleeting_notes/hibernate]]
+- [[fleeting_notes/hibernate-cheatsheet.md\|fleeting_notes/hibernate-cheatsheet.md]]
+- [[fleeting_notes/upgradation - code cleanups\|fleeting_notes/upgradation - code cleanups]]
+- [[fleeting_notes/java-ejb\|fleeting_notes/java-ejb]]
+

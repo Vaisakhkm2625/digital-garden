@@ -84,6 +84,12 @@ All network interfaces created by Docker (for example, `docker0`) are inserted i
 
 Docker also creates a forwarding policy called `docker-forwarding` that allows forwarding from `ANY` zone to the `docker` zone.
 
+## Related
+- [[fleeting_notes/selfhosting security\|fleeting_notes/selfhosting security]]
+- [[fleeting_notes/nextcloud-install-2\|fleeting_notes/nextcloud-install-2]]
+- [[fleeting_notes/next-cloud on oracle cloud\|fleeting_notes/next-cloud on oracle cloud]]
+- [[fleeting_notes/gcloud-n8n\|fleeting_notes/gcloud-n8n]]
+
 </div></div>
 
 
@@ -212,10 +218,8 @@ if it goes away without any errors, everything is good (takes some time)
 - then go to https://<ipaddress>:8080/ tab,
 - give the domain name *cloud.linuxwith.in*
 
-
-
-
-
-
-
-
+## Related
+- [[fleeting_notes/next-cloud on oracle cloud\|fleeting_notes/next-cloud on oracle cloud]]
+- [[fleeting_notes/selfhosting security\|fleeting_notes/selfhosting security]]
+- [[fleeting_notes/domain name records\|fleeting_notes/domain name records]]
+- [[fleeting_notes/DNS Deployments\|fleeting_notes/DNS Deployments]]

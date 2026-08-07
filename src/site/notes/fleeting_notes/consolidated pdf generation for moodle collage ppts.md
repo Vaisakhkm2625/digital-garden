@@ -84,6 +84,11 @@ rough tests
 pdfcpu stamp add -m text -- "Page %p of %P" "pos:br, scale:0.4, rot:0" database-design-ppts-consolidate.pdf output.pdf
 pdfcpu stamp add -m text -- "%p" "pos:br, scale:0.4, rot:0" database-design-ppts-consolidate.pdf output.pdf      
 pdfcpu nup -- "formsize:A4, orientation:rd" out9.pdf 9 database-design-ppts-consolidate.pdf                
+
+## Related
+- [[fleeting_notes/ppt-generator-idea-notes]]
+- [[fleeting_notes/neovim tips]]
+- [[fleeting_notes/public-bookmarklets]]                
 ```
 
 

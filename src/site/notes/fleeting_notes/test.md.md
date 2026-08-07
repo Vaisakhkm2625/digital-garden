@@ -13,3 +13,8 @@ views:
 ```
 
 
+
+## Related
+  - [[fleeting_notes/obsidian-test\|fleeting_notes/obsidian-test]]
+  - [[fleeting_notes/Home\|fleeting_notes/Home]]
+  - [[fleeting_notes/hello\|fleeting_notes/hello]]

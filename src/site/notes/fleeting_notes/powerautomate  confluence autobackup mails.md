@@ -61,3 +61,7 @@ click on attachment Name - 1 and give a name to the attachment file (test.xlsx)
 click on 'save' button on left top
 click on 'run button at top'
 
+## Related
+- [[fleeting_notes/ppt-generator-idea-notes\|fleeting_notes/ppt-generator-idea-notes]]
+- [[fleeting_notes/hots\|fleeting_notes/hots]]
+- [[fleeting_notes/triage kt\|fleeting_notes/triage kt]]

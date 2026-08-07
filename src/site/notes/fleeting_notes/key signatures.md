@@ -28,3 +28,9 @@ Battle Ends and Down Goes Charles Father
 
 ### flats -2221 pattern
 ![keysignatures-shape-flats.png](/img/user/img/keysignatures-shape-flats.png)
+
+## Related
+- [[fleeting_notes/Measures (bars)\|fleeting_notes/Measures (bars)]]
+- [[fleeting_notes/sharps\|fleeting_notes/sharps]]
+- [[fleeting_notes/Piano\|fleeting_notes/Piano]]
+- [[scales\|scales]]

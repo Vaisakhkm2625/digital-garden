@@ -108,6 +108,13 @@ Content:
 # References
 https://www.youtube.com/watch?v=YV5tkQYcvfg&t=1467s
 
+## Related
+
+- [[fleeting_notes/DNS Deployments\|fleeting_notes/DNS Deployments]]
+- [[fleeting_notes/selfhosting security\|fleeting_notes/selfhosting security]]
+- [[fleeting_notes/next-cloud on oracle cloud\|fleeting_notes/next-cloud on oracle cloud]]
+- [[fleeting_notes/portfolio\|fleeting_notes/portfolio]]
+
 
 
 

@@ -486,3 +486,10 @@ public void addReviewsForCourse() {
   em.persist(badReview);
 }
 ```
+
+## Related
+
+- [[fleeting_notes/hibernate\|fleeting_notes/hibernate]]
+- [[fleeting_notes/hibernate-proxies\|fleeting_notes/hibernate-proxies]]
+- [[fleeting_notes/hibernate-refersh\|fleeting_notes/hibernate-refersh]]
+- [[fleeting_notes/java-ejb\|fleeting_notes/java-ejb]]

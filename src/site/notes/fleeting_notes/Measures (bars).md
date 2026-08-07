@@ -19,3 +19,9 @@
 reference:
 
 https://piano-music-theory.com/2016/05/30/measures-and-time-signature/
+
+## Related
+- [[fleeting_notes/key signatures\|fleeting_notes/key signatures]]
+- [[fleeting_notes/sharps\|fleeting_notes/sharps]]
+- [[fleeting_notes/Piano\|fleeting_notes/Piano]]
+- [[scales\|scales]]

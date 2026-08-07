@@ -83,3 +83,7 @@ Then set font size to 16
 - Next> Next> (stop at integration tab)
 - Click on `After tool exist> reload open files`
 
+## Related
+- [[fleeting_notes/oracle plsql\|fleeting_notes/oracle plsql]]
+- [[fleeting_notes/mysql_nix\|fleeting_notes/mysql_nix]]
+- [[fleeting_notes/home-manager-gemini\|fleeting_notes/home-manager-gemini]]

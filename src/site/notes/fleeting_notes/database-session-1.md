@@ -42,4 +42,12 @@
 	
 	6. **Data Independence**  
 	   - **Logical Data Independence** – Changing application code without modifying storage.  
-	   - **Physical Data Independence** – Changing storage structure without modifying application code.  
+	   - **Physical Data Independence** – Changing storage structure without modifying application code.
+
+## Related
+
+- [[fleeting_notes/database-portions\|fleeting_notes/database-portions]]
+- [[fleeting_notes/database-complete-gemini-overview\|fleeting_notes/database-complete-gemini-overview]]
+- [[fleeting_notes/ed-diagram\|fleeting_notes/ed-diagram]]
+- [[fleeting_notes/erd\|fleeting_notes/erd]]
+- [[fleeting_notes/relational algibra in dbms\|fleeting_notes/relational algibra in dbms]]  

@@ -455,3 +455,9 @@ public class Person {
 ---
 
 Would you like this cheat sheet exported to a **PDF**, or should I include usage examples with **TableView** or **custom cell factories** too?
+
+## Related
+- [[fleeting_notes/chess-game-java\|fleeting_notes/chess-game-java]]
+- [[fleeting_notes/filteredlist\|fleeting_notes/filteredlist]]
+- [[fleeting_notes/gui framworks\|fleeting_notes/gui framworks]]
+- [[fleeting_notes/Java refresher\|fleeting_notes/Java refresher]]
