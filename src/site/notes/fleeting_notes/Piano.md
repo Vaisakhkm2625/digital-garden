@@ -4,12 +4,12 @@
 
 # Piano notes
 #  Notes
+- [[seventh\|seventh]]
 - [[scales\|scales]]
 - [[fleeting_notes/sharps\|sharps]]
-- [[seventh\|seventh]]
 - [[fleeting_notes/Piano\|Piano]]
-- [[fleeting_notes/key signatures\|key signatures]]
 - [[fleeting_notes/Measures (bars)\|Measures (bars)]]
+- [[fleeting_notes/key signatures\|key signatures]]
 
 { .block-language-dataview}
 
