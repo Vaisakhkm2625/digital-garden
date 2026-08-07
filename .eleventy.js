@@ -95,7 +95,7 @@ function getAnchorAttributes(filePath, linkTitle) {
   }
 }
 
-const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
+const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[\{\]};:'"?><]+)(?!([^<]*>))/g;
 
 const markdownFileTypeRegex = /\.(md|markdown)$/i;
 const isMarkdownPage = (inputPath) => inputPath && inputPath.match(markdownFileTypeRegex);
@@ -205,7 +205,7 @@ module.exports = function(eleventyConfig) {
             }
           }
           const foldDiv = collapsible ? `<div class="callout-fold">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-chevron-down">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" clas[...]
               <polyline points="6 9 12 15 18 9"></polyline>
           </svg>
           </div>` : "";
@@ -392,14 +392,14 @@ module.exports = function(eleventyConfig) {
     if (!str) return str;
     // Remove invalid XML characters (0xFFFE, 0xFFFF, etc.)
     str = str.replace(/\uFFFE|\uFFFF/g, '');
-    // Escape ]]> in content to prevent CDATA issues
+    // Escape ]]&gt; in content to prevent CDATA issues
     str = str.replace(/\]\]>/g, ']]&gt;');
     // Self-close br, hr, and link tags
     str = str.replace(/<br\s*>/gi, '<br />');
     str = str.replace(/<hr\s*>/gi, '<hr />');
-    str = str.replace(/<link([^>]*?)(?<!\/)>/gi, '<link$1 />');
+    str = str.replace(/<link([^>]*?)(?<!\/)>(?<!\/)/gi, '<link$1 />');
     // Self-close img tags that aren't already self-closed
-    str = str.replace(/<img([^>]*?)(?<!\/)>/gi, '<img$1 />');
+    str = str.replace(/<img([^>]*?)(?<!\/)>(?<!\/)/gi, '<img$1 />');
     return str;
   });
 
@@ -444,7 +444,7 @@ module.exports = function(eleventyConfig) {
         function(metaInfoMatch, callout, metaData, collapse, title) {
           isCollapsable = Boolean(collapse);
           isCollapsed = collapse === "-";
-          const titleText = title.replace(/(<\/{0,1}\w+>)/, "")
+          const titleText = title.replace(/(<\/{0,1}\\w+>)/, "")
             ? title
             : `${callout.charAt(0).toUpperCase()}${callout
               .substring(1)
@@ -496,19 +496,19 @@ module.exports = function(eleventyConfig) {
       media="(max-width:480px)"
       srcset="${meta.jpeg[0].url}"
       />
-      `
+      `;
     if (meta.webp && meta.webp[1] && meta.webp[1].url) {
       html += `<source
         media="(max-width:1920px)"
         srcset="${meta.webp[1].url}"
         type="image/webp"
-        />`
+        />`;
     }
     if (meta.jpeg && meta.jpeg[1] && meta.jpeg[1].url) {
       html += `<source
         media="(max-width:1920px)"
         srcset="${meta.jpeg[1].url}"
-        />`
+        />`;
     }
     html += `<img
       class="${cls.toString()}"
@@ -693,52 +693,56 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
   eleventyConfig.addPassthroughCopy({ "src/site/logo.*": "/" });
-  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
-  eleventyConfig.addPlugin(tocPlugin, {
-    ul: true,
-    tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
-  });
 
-  // Canvas files are pre-compiled HTML by the plugin - don't process as markdown
-  eleventyConfig.addExtension("canvas", {
-    read: true,
-    compile: async function(inputContent, inputPath) {
-      // Extract content after frontmatter (canvas HTML is already compiled by plugin)
-      const parsed = matter(inputContent);
-      return async (data) => {
-        // Return the HTML content directly without markdown processing
-        return parsed.content;
-      };
+  // Normalize plugin imports to handle CJS/ESM interop and provide clearer errors
+  const _resolvePlugin = (p) => {
+    if (!p) return p;
+    if (typeof p === 'function' || typeof p === 'object') return p;
+    if (p && p.default && (typeof p.default === 'function' || typeof p.default === 'object')) return p.default;
+    return p;
+  };
+
+  try {
+    const favPlugin = _resolvePlugin(faviconsPlugin);
+    if (typeof favPlugin !== 'function' && typeof favPlugin !== 'object') {
+      throw new Error('faviconsPlugin is not a valid Eleventy plugin');
     }
-  });
+    eleventyConfig.addPlugin(favPlugin, { outputDir: "dist" });
+  } catch (e) {
+    console.error('Failed to register faviconsPlugin:', e);
+    // Rethrow so the build fails loudly in CI with a clearer message
+    throw e;
+  }
 
-  eleventyConfig.addFilter("dateToZulu", function(date) {
-    try {
-      return new Date(date).toISOString("dd-MM-yyyyTHH:mm:ssZ");
-    } catch {
-      return "";
+  try {
+    const toc = _resolvePlugin(tocPlugin);
+    if (typeof toc !== 'function' && typeof toc !== 'object') {
+      throw new Error('tocPlugin is not a valid Eleventy plugin');
     }
-  });
+    eleventyConfig.addPlugin(toc, {
+      ul: true,
+      tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
+    });
+  } catch (e) {
+    console.error('Failed to register tocPlugin:', e);
+    throw e;
+  }
 
-  eleventyConfig.addFilter("jsonify", function(variable) {
-    return JSON.stringify(variable) || '""';
-  });
-
-  eleventyConfig.addFilter("validJson", function(variable) {
-    if (Array.isArray(variable)) {
-      return variable.map((x) => x.replaceAll("\\", "\\\\")).join(",");
-    } else if (typeof variable === "string") {
-      return variable.replaceAll("\\", "\\\\");
+  try {
+    const rss = _resolvePlugin(pluginRss);
+    if (typeof rss !== 'function' && typeof rss !== 'object') {
+      throw new Error('pluginRss is not a valid Eleventy plugin');
     }
-    return variable;
-  });
-
-  eleventyConfig.addPlugin(pluginRss, {
-    posthtmlRenderOptions: {
-      closingSingleTag: "slash",
-      singleTags: ["link"],
-    },
-  });
+    eleventyConfig.addPlugin(rss, {
+      posthtmlRenderOptions: {
+        closingSingleTag: "slash",
+        singleTags: ["link"],
+      },
+    });
+  } catch (e) {
+    console.error('Failed to register pluginRss:', e);
+    throw e;
+  }
 
   userEleventySetup(eleventyConfig);
 
