@@ -6,6 +6,7 @@
 > Vaisakh K M (https://me.nixifying.my.id)
 > Source code: https://github.com/Vaisakhkm2625/pi-agent-study-planner
 > Onlline: https://notes.nixifying.my.id/fleeting_notes/probabiliity-and-stat-using-R-sastra-first-sem-rev
+
 ## High Priority
 1. **R Programming Fundamentals (Data Structures & Manipulation)** — Since the course is titled "using R," proficiency in R is essential. You must master the fundamental data structures: **Vectors** (one-dimensional arrays), **Data Frames** (tabular data), and the use of **Logical Operators** for filtering and subsetting data. Understanding how to create, read, and save data in R is foundational.
 2. **Random Variables and Joint Distributions** — This is the theoretical core. You must understand the definition of a Random Variable (numerical outcome of a random phenomenon). Crucially, focus on **Joint Distributions** and the concepts of **Independence vs. Dependence** between multiple random variables. The ability to calculate conditional probabilities and expected values for multiple variables is a high-yield topic.
