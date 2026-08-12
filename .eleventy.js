@@ -1,4 +1,14 @@
 module.exports = function(eleventyConfig) {
+  // Register a 'jsonify' filter for Nunjucks (and other engines) so templates can call |jsonify
+  eleventyConfig.addFilter("jsonify", function(value) {
+    try {
+      return JSON.stringify(value);
+    } catch (e) {
+      // Fallback for circular structures
+      return String(value);
+    }
+  });
+
   // Minimal, safe Eleventy config (CommonJS)
   // Adjust paths below if your project uses different directories.
 
