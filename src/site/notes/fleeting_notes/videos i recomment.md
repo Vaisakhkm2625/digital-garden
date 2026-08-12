@@ -10,6 +10,11 @@ https://www.youtube.com/watch?v=1fZTOjd_bOQ
 - data achival - https://www.youtube.com/watch?v=ulh9z-JluBs
 	- optical drives are really good option
 
+
+
+
+- clear explanation of cosmic background raditaions
+	- https://www.youtube.com/watch?v=lkvlxy4HK5Y
 ## Related
   - [[fleeting_notes/youtube watch queue\|fleeting_notes/youtube watch queue]]
   - [[fleeting_notes/data-archive\|fleeting_notes/data-archive]]
